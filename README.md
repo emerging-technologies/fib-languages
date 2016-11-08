@@ -19,6 +19,8 @@ Each of the scripts can be run as follows:
 6765
  $ julia fib.jl 
 6765
+ $ swift fib.swift 
+6765
  $ go run fib.go
 6765
  $ gcc -o fib fib.c

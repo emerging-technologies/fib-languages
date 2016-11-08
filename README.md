@@ -25,4 +25,7 @@ Each of the scripts can be run as follows:
  $ rustc fib.rs 
  $ ./fib
 6765
+$ javac fib.class
+$ java fib
+6765
 ```

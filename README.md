@@ -15,6 +15,8 @@ Each of the scripts can be run as follows:
 6765
  $ php fib.php 
 6765
+ $ ruby fib.rb 
+6765
  $ julia fib.jl 
 6765
  $ go run fib.go

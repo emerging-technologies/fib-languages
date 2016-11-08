@@ -34,4 +34,6 @@ $ ./fib
  $ mcs fib.cs 
  $ mono fib.exe 
 6765
+$ racket fib.rkt
+6765
 ```

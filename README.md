@@ -40,4 +40,6 @@ $ ./fib
 6765
 $ racket fib.rkt
 6765
+ $ Rscript fib.R
+[1] 6765
 ```

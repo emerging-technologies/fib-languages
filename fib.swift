@@ -1,3 +1,5 @@
+#!/usr/bin/env swift
+
 func fib(n: Int) -> (Int) {
   if n < 2 {
     return n

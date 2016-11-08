@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript
+
 fib <- function(n) {
   if (n < 2) {
     return(n)

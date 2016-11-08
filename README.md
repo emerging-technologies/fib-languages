@@ -28,4 +28,8 @@ Each of the scripts can be run as follows:
 $ javac fib.java
 $ java fib
 6765
+$ g++ -o fib fib.cpp 
+$ ./fib
+6765
+
 ```

@@ -1,4 +1,4 @@
-# Example: Recursive Fibonacci in various languages.
+# Example: Recursive Fibonacci in various languages
 
 This is an example repository for the module **Emerging Technologies**.
 The module is taught to fourth year undergraduate students at [GMIT](http://www.gmit.ie).
